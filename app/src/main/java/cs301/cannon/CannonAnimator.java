@@ -17,6 +17,12 @@ import static java.lang.Math.*;
  *
  * Color reference: http://www.rapidtables.com/web/color/RGB_Color.htm
  *
+ * Instructions:
+ *
+ * An application that allows the user to shoot a ball out of a cannon at whichever angle
+ * the user desires by simply clicking on the screen.
+ * When a ball hits one of the targets in the background, an "explosion" appears.
+ *
  */
 public class CannonAnimator implements Animator {
 
